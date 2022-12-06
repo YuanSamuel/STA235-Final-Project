@@ -1,4 +1,4 @@
-,Movie,LikeCountMean,LikeCountMax,RetweetCountMean,RetweetCountMax,ReplyCountMean,ReplyCountMax,QuoteCountMean,QuoteCountMax,VerifiedMean,FriendsCountMean,FriendsCountMax,FollowersCountMean,FollowersCountMax,StatusesCountMean,StatusesCountMax,revenue
+ID,Movie,LikeCountMean,LikeCountMax,RetweetCountMean,RetweetCountMax,ReplyCountMean,ReplyCountMax,QuoteCountMean,QuoteCountMax,VerifiedMean,FriendsCountMean,FriendsCountMax,FollowersCountMean,FollowersCountMax,StatusesCountMean,StatusesCountMax,revenue
 0,#Alive,25.85,209,5.4,79,0.43,8,0.64,13,0.01,173.79,1558,12501.66,749257,33582.17,667840,13416285.0
 1,#Зановородиться,3.241758241758242,18,0.26373626373626374,4,0.17582417582417584,2,0.02197802197802198,1,0.06593406593406594,295.6263736263736,5956,46537.0989010989,1887161,22606.714285714286,381984,36000.0
 2,10 Days Without Mum,12.21,201,2.35,69,1.49,38,0.23,9,0.05,1058.8,13553,167526.55,8253016,52813.03,1728144,9305412.0
